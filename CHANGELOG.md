@@ -1,5 +1,12 @@
 # @hyperlane-xyz/registry
 
+## 1.3.1
+
+### Patch Changes
+
+- 23138d8: Add more arbitrum rpcUrls
+- 23138d8: Added mantapacific gnosisSafeTransactionServiceUrl
+
 ## 1.3.0
 
 ### Minor Changes
