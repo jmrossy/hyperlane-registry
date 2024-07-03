@@ -9,7 +9,7 @@ blockExplorers:
     name: Blockscout
     url: https://blockscout.com/eth/mainnet
 blocks:
-  confirmations: 7
+  confirmations: 1
   estimateBlockTime: 13
   reorgPeriod: 14
 chainId: 1
@@ -23,5 +23,4 @@ nativeToken:
   symbol: ETH
 protocol: ethereum
 rpcUrls:
-  - http: https://ethereum.publicnode.com
-  - http: https://cloudflare-eth.com
+  - http: https://rpc.ankr.com/eth
