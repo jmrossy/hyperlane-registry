@@ -23,4 +23,4 @@ nativeToken:
   symbol: ETH
 protocol: ethereum
 rpcUrls:
-  - http: https://rpc.ankr.com/eth
+  - http: https://mainnet.infura.io/v3/941908eb9edb415bb3a8a76866136804
